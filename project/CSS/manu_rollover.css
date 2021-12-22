@@ -48,10 +48,10 @@ body {
     opacity: 1;
     /* While hoverd, drop dwon-menu appears
         This also avoids a block-level bug */
-    visibility: hidden;
+    visibility: visible;
 }
 
-.aubmenu {
+.submenu {
     padding: 0;
     left: 0;
     position: absolute;
