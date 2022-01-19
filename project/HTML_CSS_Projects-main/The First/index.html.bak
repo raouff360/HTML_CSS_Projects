@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>The evolution of the Television</title>
+		<meta charset="utf-8"
+	</head>
+	<body>
+		
+		<header>
+			<h1>The Basic HTML Template</h1>
+			<p>Introduction to basic HTML syntax.</p>
+		</header>
+		
+	</body>
+
+			<!-- NAV -->
+			<div>
+				<div>
+					<ul>
+						<a href="#home" id="link"><li>HOME</li></a>
+						<a href="#gallery"><li>GALLERY</1i></a>
+						<a href="#contact"><li>RESERVATIONS</1i></a>
+					</ul>
+				</div>
+			</div>
+			<!--END NAV -->
+			
+			<!--HOME-->
+			<div id="home">
+				<div>
+					<div>
+						<span>The evolution of the TV</span>
+					<div>
+				<div>
+			<div>
+			<!-- END HOME -->
+			
+			<!-- GALLERY -->
+			<section>
+				<div id="gallery">
+					<h1>EVOLUTIONS</h1>
+					<div>
+					
+						<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_1.jpeg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 1-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_2.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 2-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_3.jpeg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 3-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_4.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 4-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_5.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 5-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_6.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 6-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_7.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 7-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_8.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 8-->
+					
+					<!-- PHOTO-CONTAINER -->
+						<div>
+							<div>
+								<img src="C:\Users\raouf\Desktop\The First\IMG\Thumb\thumb_9.jpg" alt="">
+								<div>
+									<h3>Click to Enlarge</h3>
+									<p>Started in 1927 when the first TV was shown <p>
+								</div>
+							<div>	
+						<div>
+					<div>
+					<!-- END PHOTO-CONTAINR 9-->
+				<div>
+			</div>
+		</section>
+		<!-- END GALLERY-->
+		
+		<!-- R5VP -->
+		<section>
+			<div id="contact">	
+				<div>
+					<h1>Reservation<h1>
+					<div>
+						<h2><span>Your adventure is just around the moon.</span>
+							<br />Reserve your flight today!
+						</h2>
+						<p>
+							Please provide us with your contact information.
+						</p>
+						<div>	
+							<form action=""method="post">
+								<input class="revp"	type="text" value="First Name">
+								<input class="revp"	type="text"	value="Last Name ">						
+								<input class="revp"	type="text"	value="Email Address">
+								<input class="revp"	type="text"	Value+"Phone Number">
+								<div class="form-spacer">	
+									<label calss="terms">Terms and Condions</Label>
+								</div>
+								<div>	
+									<input type="submit" value="Submit">
+								</div>
+							</form>
+						<div>
+					<div>
+				<div>
+			<div>
+		</section>
+		<!-- END RSVP -->
+		
+		<!-- FOOTER -->
+		<div>
+			www.TVevoltion.time
+		</div>
+		<!-- END FOOTER -->
+	</body>
+<html>
+		
+	
